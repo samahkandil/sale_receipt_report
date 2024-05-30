@@ -1,7 +1,7 @@
 {
     "name": "Sale Receipt Report",
 
-    'version': "16.0",
+    'version': "15.0",
     'license': 'LGPL-3',
     'category': 'Sales',
 
